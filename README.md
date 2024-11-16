@@ -12,7 +12,7 @@ For the end card and main menu I drew something to imply the story. I’m not th
 
 I also made two different songs. One for the main menu and level, then one for the end card. The first is meant to be ominous and urgent while the later is supposed to be relief and I even included bird sounds to add to this feeling of escaping into the outside. 
 
-A big focus was put on the story and vibes to try to make it cohesive through art and music.
+A big focus was put on the story and vibes to try to make it cohesive through art and music. A lot of the little quirks of the game kinda help with the unsettling vibe I think. 
 
 
 ## References
